@@ -1,11 +1,11 @@
 # Site settings
 author: Susan Meyers
-title: 
+title: "#Unlocking The Cod(ing) To My Future". 
 header-img: img/home-bg.png
 email: smmeyers24@gmail.com
 copyright_name: Susan Meyers
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Introduction Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  susanmeyers
